@@ -96,7 +96,7 @@ https://www.tensorflow.org/guide/migrate?hl=ko
 <br>
 
 ### KoNLPy 설치 방법
-https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/#id1
+https://konlpy-ko.readthedocs.io/ko/v0.5.2/install/
 <br>
 
 
